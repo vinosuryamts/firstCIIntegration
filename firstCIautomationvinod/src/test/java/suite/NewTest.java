@@ -26,8 +26,6 @@ public class NewTest {
     return new Object[][] {
       new Object[] { 1, "Firefox" ,"https://amazon.com"},
       new Object[] { 2, "Chrome","https://flipkart.com" },
-      new Object[] { 2, "Opera","https://google.com" },
-      new Object[] { 2, "Chrome","https://google.com" },
     };
   }
 }
